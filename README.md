@@ -10,7 +10,7 @@ This is a simple Java backend application assignment built with Spring Boot to m
 
 2. **Get an Item by ID**: Send a GET request to `http://localhost:8080/getItemsById/{id}` to retrieve an item by its ID.
 
-Database
+Database ->
 This application uses an in-memory H2 database to store and manage items.
 
 ## Setup
